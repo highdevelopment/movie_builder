@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Animation Builder</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+		<meta charset="utf-8">
+		<link href="css/style.css" rel="stylesheet">
+	</head>
+	<body>
+		<div id="page_1">
+			<div><input type="text" name="" placeholder="paste a url for JSON document" id="text_url" value=""></div>
+			<button id="btn_start">Get Video</button>
+		</div>
+		<div id="page_2">
+			<section>
+				<span>width</span>
+				<input type="text" name="width" id="text_width" value="640">
+				<span>height</span>
+				<input type="text" name="height" id="text_height" value="640">
+				<span>transition time</span>
+				<input type="text" name="transition" id="text_transition_time" value="2">
+			</section>
+			<canvas id="animation_canvas"></canvas>
+			<h1 id="text_status">
+				Please wait while your video is being created...
+			</h1>
+			<div id="text_result">
+				<h1>Download</h1>
+				<a href=""></a>
+			</div>
+		</div>
+
+		<script src="js/jquery-2.2.4.js"></script>
+		<script src="js/html2canvas.js"></script>
+    	<script type="text/javascript" src="server/node_modules/socket.io-client/socket.io.js"></script>
+    	<!-- <script type="text/javascript" src="http://logoanimationwizard.net/server/node_modules/socket.io/node_modules/socket.io-client/socket.io.js"></script> -->
+		<script src="js/video.js"></script>
+		<script src="js/main.js"></script>
+	</body>
+</html>

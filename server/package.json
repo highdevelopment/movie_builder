@@ -1,0 +1,7 @@
+{
+  "name": "movie builder",
+  "version": "0.0.1",
+  "description": "movie builder",
+  "main": "index.js",
+  "dependencies": {}
+}

@@ -1,0 +1,71 @@
+[{
+    "type": "title",
+    "data": {
+        "text": "Foursquare Tip for Dream Hair"
+    }
+}, {
+    "type": "foursquare-tip",
+    "data": {
+        "text": "#bakımlı bir işletme.",
+        "created_at": "2016-08-31T21:06:52Z",
+        "canonical_url": "https://foursquare.com/item/57c746ec498e2be035768d92",
+        "likes_count": 0,
+        "user_first_name": "bakim.li",
+        "user_last_name": "Kuzey Kıbrıs",
+        "user_gender": "female",
+        "user_photo_prefix": "https://irs1.4sqi.net/img/user/",
+        "user_photo_suffix": "/334960441-JB1NST5MFVNNUUZK.jpg",
+        "photo_prefix": null,
+        "photo_suffix": null
+    }
+}, {
+    "type": "foursquare-tip",
+    "data": {
+        "text": "Şaçtan tırnağa uzman ekibiyle güzelleşin",
+        "created_at": "2016-03-15T13:12:16Z",
+        "canonical_url": "https://foursquare.com/item/56e80a30498e0ce8b26589ae",
+        "likes_count": 0,
+        "user_first_name": "Dogukan",
+        "user_last_name": "Tufekci",
+        "user_gender": "male",
+        "user_photo_prefix": "https://irs3.4sqi.net/img/user/",
+        "user_photo_suffix": "/130318836-J1YFWBI3FDEQ5YIN.jpg",
+        "photo_prefix": null,
+        "photo_suffix": null
+    }
+}, {
+    "type": "foursquare-tip",
+    "data": {
+        "text": "Güzellik ve bakım adına herşey burda",
+        "created_at": "2016-02-12T13:46:42Z",
+        "canonical_url": "https://foursquare.com/item/56bde242498e0f8bf8fb5036",
+        "likes_count": 0,
+        "user_first_name": "Ebru",
+        "user_last_name": "Uysal",
+        "user_gender": "female",
+        "user_photo_prefix": "https://irs0.4sqi.net/img/user/",
+        "user_photo_suffix": "/27057989-O25SJLRC5YJ2TWZL.jpg",
+        "photo_prefix": null,
+        "photo_suffix": null
+    }
+}, {
+    "type": "foursquare-tip",
+    "data": {
+        "text": "Dream Hair'in uzman ekibiyle güzelleşmek için bugün randevu alın.",
+        "created_at": "2015-10-23T13:04:31Z",
+        "canonical_url": "https://foursquare.com/item/562a305f498e4b2db2c4be02",
+        "likes_count": 0,
+        "user_first_name": "Dogukan",
+        "user_last_name": "Tufekci",
+        "user_gender": "male",
+        "user_photo_prefix": "https://irs3.4sqi.net/img/user/",
+        "user_photo_suffix": "/130318836-J1YFWBI3FDEQ5YIN.jpg",
+        "photo_prefix": null,
+        "photo_suffix": null
+    }
+}, {
+    "type": "logo",
+    "data": {
+        "logo": "https://bakim.li/media/business-logos/12119148_1654884704760544_3965289323018514907_n.jpg"
+    }
+}]

@@ -1,0 +1,148 @@
+
+body
+{
+	background-color: #eee;
+}
+
+div
+{
+	padding: 10px;
+}
+
+button
+{
+	margin: 10px;
+}
+
+span
+{
+	padding-left: 20px;
+}
+
+#page_1
+{
+	text-align: center;
+}
+
+#page_1 #text_url
+{
+    width: 400px;
+    padding: 15px;
+    border-radius: 10px;
+    margin-top: 200px;
+}
+
+#page_1 #btn_start
+{
+    padding: 10px 30px;
+    border-radius: 10px;
+    background: black;
+    color: white;
+}
+
+#page_2
+{
+	text-align: center;
+}
+
+#page_2 section
+{
+	display: none;
+}
+
+#page_2 #text_width
+{
+	width: 100px;
+}
+
+#page_2 #text_height
+{
+	width: 100px;
+}
+
+#page_2 #animation_canvas
+{
+	margin-top: 100px;
+	margin-bottom: 30px;
+	width: 800px;
+	height: 600px;
+	background-color: white;
+}
+
+#text_result a
+{
+	font-size: 36px;
+}
+
+
+
+
+#data
+{
+	position: absolute;
+}
+
+.section_data
+{
+	/*max-width: 800px;*/
+	/*margin: 30px;*/
+	background-color: white;
+	height: 600px;
+	text-align: center;
+}
+
+.section_data h1
+{
+	padding-top: 250px;
+}
+
+.type_title
+{
+}
+
+.type_tip .info
+{
+	display: inline-block;
+    margin-top: 30px;
+}
+
+.type_tip .info .info_picture
+{
+	padding-top: 10px;
+	float: left;
+	width: 80px;
+	height: 80px;
+}
+
+.type_tip .info .info_name
+{
+	padding-left: 120px;
+}	
+
+.type_tip .data_text
+{
+    padding-top: 150px;
+    padding-right: 60px;
+    padding-left: 60px;
+	text-align: center;
+	font-size: 36px;
+	font-weight: 700;
+}
+
+.type_logo
+{
+	text-align: center;
+}
+
+.type_logo img
+{
+	max-width: 100%;
+    height: 100%;
+}
+
+
+
+#page_2
+{
+	display: none;
+}
