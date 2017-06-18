@@ -1,0 +1,13 @@
+{
+  "name": "movie builder",
+  "version": "0.0.1",
+  "description": "movie builder",
+  "engines": {
+    "node": "6.10.2"
+  },
+  "main": "server/node_server.js",
+  "scripts": {
+    "start": "node server/node_server.js"
+  },
+  "dependencies": {}
+}
